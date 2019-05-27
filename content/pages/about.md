@@ -1,12 +1,11 @@
 ---
-title: "About me"
-template: "page"
+template: page
+title: About me
+slug: /pages/about
+draft: true
 ---
+I wrote my first line of code at age 30 and haven't stopped since! Before beginning my career as an engineer I worked as an actuarial technician, data analyst, fitness model, and an investigator under top-secret security clearance. It's been quite a ride.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+In my free time I enjoy relaxing with my wife, daughter, and two chihuahuas, training as a powerlifter, and creating content to make web development more approachable for a broader segment of creators.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
-
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+I'm a GraphQL fanatic and also love building with modern JavaScript, specifically React and VueJS.
