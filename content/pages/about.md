@@ -2,7 +2,7 @@
 template: page
 title: About me
 slug: /pages/about
-draft: true
+draft: false
 ---
 I wrote my first line of code at age 30 and haven't stopped since! Before beginning my career as an engineer I worked as an actuarial technician, data analyst, fitness model, and an investigator under top-secret security clearance. It's been quite a ride.
 
