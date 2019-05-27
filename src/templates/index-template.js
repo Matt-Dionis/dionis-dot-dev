@@ -57,7 +57,6 @@ export const query = graphql`
         node {
           fields {
             slug
-            categorySlug
           }
           frontmatter {
             title
