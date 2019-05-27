@@ -1,38 +1,31 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  url: 'https://dionis.dev',
+  title: 'dionis.dev - A blog by Matt Dionis',
+  subtitle: 'Musings on all things JavaScript with a focus on GraphQL, React, Vue, and programming soft skills.',
+  copyright: `©${new Date().getFullYear()} All rights reserved.`,
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   menu: [
     {
-      label: 'Articles',
+      label: 'Posts',
       path: '/'
     },
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Matt Dionis',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Engineering Manager, GraphQL fanatic, chihuahua lover.',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'mattdionis@gmail.com',
+      twitter: 'mattdionis',
+      github: 'matt-dionis'
     }
   }
 };
