@@ -30,7 +30,7 @@ On the Circle 🛠 team, we know that our future stack includes GraphQL. In fact
 
 First, there are a number of packages we’ll need to pull in:
 
-```
+```bash
 yarn add @apollo/react-hooks apollo-cache-inmemory apollo-client graphql graphql-tag react react-dom
 ```
 

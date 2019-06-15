@@ -93,6 +93,15 @@ module.exports = {
       options: {
         plugins: [
           {
+            resolve: `gatsby-remark-vscode`,
+            options: {
+              extensions: [{
+                identifier: 'luyizhi.vscode-graphql',
+                version: '0.0.4'
+              }]
+            }
+          },
+          {
             resolve: 'gatsby-remark-katex',
             options: {
               strict: 'ignore'
