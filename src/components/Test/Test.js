@@ -14,11 +14,7 @@ export default class Test extends React.Component {
     fetch(
       '/.netlify/functions/test'
     )
-      .then(x => x.json())
-      .then(x => {
-        console.log('hi');
-        console.log(x);
-      })
+      .then(x => console.log(x))
   }
 
   render() {
