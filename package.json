@@ -40,6 +40,7 @@
     "disqus"
   ],
   "dependencies": {
+    "apollo-server-lambda": "^2.6.7",
     "bluebird": "^3.5.5",
     "classnames": "^2.2.6",
     "codecov": "^3.5.0",
@@ -69,6 +70,7 @@
     "gatsby-source-filesystem": "^2.0.37",
     "gatsby-transformer-remark": "^2.3.12",
     "gatsby-transformer-sharp": "^2.1.19",
+    "graphql": "^14.4.1",
     "invariant": "^2.2.4",
     "katex": "^0.10.2",
     "lodash": "^4.17.11",
