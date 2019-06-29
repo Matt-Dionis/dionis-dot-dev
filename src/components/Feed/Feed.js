@@ -5,12 +5,15 @@ import { Link } from 'gatsby';
 import type { Edges } from '../../types';
 import styles from './Feed.module.scss';
 
+import Test from '../Test'
+
 type Props = {
   edges: Edges
 };
 
 const Feed = ({ edges }: Props) => (
   <div className={styles['feed']}>
+    <Test />
     {edges.map((edge) => (
       <div className={styles['feed__item']} key={edge.node.fields.slug}>
         <div className={styles['feed__item-meta']}>
