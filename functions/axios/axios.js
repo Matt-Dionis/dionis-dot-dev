@@ -2,7 +2,7 @@ const axios = require('axios');
 
 exports.handler = (event, context, callback) => {
   axios({
-    url: 'https://fl2mq.sse.codesandbox.io/graphql',
+    url: 'https://graphql-federated-gateway.herokuapp.com/graphql',
     method: 'post',
     data: {
       query: `
