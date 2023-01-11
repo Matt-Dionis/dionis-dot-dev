@@ -69,7 +69,7 @@
     "gatsby-remark-smartypants": "^2.0.9",
     "gatsby-remark-vscode": "^1.0.6",
     "gatsby-source-filesystem": "^2.0.37",
-    "gatsby-transformer-remark": "^2.3.12",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.1.19",
     "graphql": "^14.4.1",
     "invariant": "^2.2.4",
